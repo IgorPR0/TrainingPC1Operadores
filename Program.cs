@@ -1,6 +1,6 @@
 ﻿    using System;
 
-namespace UltimaParcela
+namespace TrainingPC1OperadoresData
 {
     class Program
     {
